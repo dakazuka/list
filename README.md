@@ -1,2 +1,383 @@
-# list
-List of Students
+<br><br>
+
+2025年5月14日時点<br><br>
+
+<b>太字：トップスター/トップ娘役</b><br>
+<font color="#0000ff">新：新人公演 主演</font><br>
+<font color="#0000ff">バ：バウ 主演（公式発表で破線上）</font><br>
+<font color="#0000ff">東：東上 主演（公式発表で破線上）</font><br>
+<font color="#0000ff">博：博多座 主演</font><br>
+<font color="#0000ff">全：全国ツアー 主演</font><br>
+
+<!--
+正しい
+<td >
+赤
+<font color="#ff0000">
+青
+<font color="#0000ff">
+-->
+
+<style>
+table, th {
+border-top: 1px solid #000000;
+border-bottom: 1px solid #000000;
+border-right: 1px solid #000000;
+border-left: 1px solid #000000;
+padding: 2px 3px 2px 3px;
+vertical-align: top;
+background-color: #cdefff;  /* 背景色指定 */
+text-align: left;           /* 文字の揃え位置指定 */
+}
+table, td {
+border-top: 1px solid #000000;
+border-bottom: 1px solid #000000;
+border-right: 1px solid #000000;
+border-left: 1px solid #000000;
+padding: 2px 2px 2px 2px;
+vertical-align: top;
+background-color: #ffffff;  /* 背景色指定 */
+}
+</style>
+
+<table style="table-layout: fixed; font-size: 10pt; font-family: arial, sans, sans-serif; width: 731px; border-collapse: collapse; border: none; " border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="55">
+<col width="130">
+<col width="130">
+<col width="130">
+<col width="130">
+<col width="130">
+<col width="130">
+</colgroup>
+	<tbody>
+<tr>
+<td style="padding: 2px 3px 2px 3px; vertical-align: top; background-color: #fff9f9; border: 1px solid #000000;" >期<br>研<br>入団</td>
+<td style="background-color: #ffdbff;" >花組</td>
+<td style="background-color: #ffffdb;" >月組</td>
+<td style="background-color: #dbffdb;" >雪組</td>
+<td style="background-color: #dbffff;" >星組</td>
+<td style="background-color: #eddbff;" >宙組</td>
+<td style="background-color: #fff9f9;" >専科</td>
+</tr>
+<tr>
+<td>57期<br>研55<br>1971年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><font color="#ff0000">京 三紗</font><br>汝鳥 伶</td>
+</tr>
+<tr>
+<td>59期<br>研53<br>1973年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>一樹 千尋</td>
+</tr>
+<tr>
+<td>62期<br>研50<br>1976年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>夏美 よう</td>
+</tr>
+<tr>
+<td >67期<br>研45<br>1981年</td>
+<td></td>
+<td><font color="#ff0000">梨花 ますみ</font></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td >68期<br>研44<br>1982年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>英真 なおき</td>
+</tr>
+<tr>
+<td >70期<br>研42<br>1984年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><font color="#ff0000">万里 柚美</font></td>
+</tr>
+<tr>
+<td >72期<br>研40<br>1986年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><font color="#ff0000">五峰 亜季</font></td>
+</tr>
+<tr>
+<td >75期<br>研37<br>1989年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td ><font color="#ff0000">美穂 圭子</font></td>
+</tr>
+<tr>
+<td>76期<br>研36<br>1990年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>高翔 みず希</td>
+</tr>
+<tr>
+<td>79期<br>研33<br>1993年</td>
+<td></td>
+<td></td>
+<td></td>
+<td>美稀 千種</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td >81期<br>研31<br>1995年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>悠真 倫</td>
+</tr>
+<tr>
+<td>82期<br>研30<br>1996年</td>
+<td><font color="#ff0000">美風 舞良</font></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>85期<br>研27<br>1999年</td>
+<td></td>
+<td></td>
+<td>奏乃 はると</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td >90期<br>研22<br>2004年</td>
+<td></td>
+<td></td>
+<td></td>
+<td><font color="#ff0000">白妙 なつ</font></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td >91期<br>研21<br>2005年</td>
+<td>紫門 ゆりや <font color="#0000ff">新</font></td>
+<td><font color="#ff0000">白雪 さち花</font></td>
+<td>透真 かずき</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>92期<br>研20<br>2006年</td>
+<td></td>
+<td><b>鳳月 杏</b> <font color="#0000ff">新バ東全</font></td>
+<td>真那 春人</td>
+<td>輝咲 玲央</td>
+<td>松風 輝</td>
+<td>凛城 きら</td>
+</tr>
+<tr>
+<td>93期<br>研19<br>2007年</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>94期<br>研18<br>2008年</td>
+<td>羽立 光来</td>
+<td></td>
+<td>久城 あす<br><font color="#ff0000">杏野 このみ</font></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>95期<br>研17<br>2009年</td>
+<td></td>
+<td></td>
+<td><b>朝美 絢 </b><font color="#0000ff">新バ東全</font><br><font color="#ff0000">愛 すみれ</font><br>桜路 薫<br>天月 翼<br>瀬央 ゆりあ<font color="#0000ff"> 新バ東</font></td>
+<td><b>礼 真琴</b><br>ひろ香 祐<br><font color="#ff0000">紫 りら</font></td>
+<td>水美 舞斗 <font color="#0000ff">新バ東博</font><br><b>桜木 みなと </b><font color="#0000ff">新バ東</font></td>
+<td>輝月 ゆうま</td>
+</tr>
+<tr>
+<td >96期<br>研16<br>2010年</td>
+<td ></td>
+<td>夢奈 瑠音 <font color="#0000ff">新</font></td>
+<td><font color="#ff0000">妃華 ゆきの</font></td>
+<td>朝水 りょう</td>
+<td ></td>
+<td ></td>
+</tr>
+<tr>
+<td >97期<br>研15<br>2011年</td>
+<td><b>永久輝 せあ</b> <font color="#0000ff">新バ東全</font><br>紅羽 真希</td>
+<td>佳城 葵</td>
+<td>叶 ゆうり</td>
+<td ></td>
+<td>秋奈 るい<br><font color="#ff0000">花菱 りず</font></td>
+<td ></td>
+</tr>
+<tr>
+<td>98期<br>研14<br>2012年</td>
+<td>峰果 とわ</td>
+<td ></td>
+<td ></td>
+<td>暁 千星 <font color="#0000ff">新バ東博</font><br><font color="#ff0000">澪乃 桜季</font><br>夕渚 りょう<br>天希 ほまれ</td>
+<td><font color="#ff0000">小春乃 さよ</font><br>瑠風 輝 <font color="#0000ff">新バ東</font></td>
+<td ></td>
+</tr>
+<tr>
+<td>99期<br>研13<br>2013年</td>
+<td><font color="#ff0000">凛乃 しづか</font><br>高峰 潤</td>
+<td>英 かおと <font color="#0000ff">新</font><br><font color="#ff0000">彩 みちる</font> <font color="#0000ff">新バ東</font></td>
+<td>諏訪 さき <font color="#0000ff">新</font></td>
+<td><font color="#ff0000">小桜 ほのか</font> <font color="#0000ff">新バ</font><br>蒼舞 咲歩<br><font color="#ff0000">七星 美妃</font></td>
+<td>若翔 りつ</td>
+<td ></td>
+</tr>
+<tr>
+<td>100期<br>研12<br>2014年</td>
+<td><font color="#ff0000">糸月 雪羽</font><br>聖乃 あすか <font color="#0000ff">新バ東</font><br>一之瀬 航季<br>和 礼彩</td>
+<td>風間 柚乃 <font color="#0000ff">新バ東</font><br><font color="#ff0000">桃歌 雪</font><br><font color="#ff0000">妃純 凛</font></td>
+<td>眞ノ宮 るい</td>
+<td><font color="#ff0000">二條 華</font><br>希沙 薫<br>極美 慎 <font color="#0000ff">新バ</font></td>
+<td><font color="#ff0000">天彩 峰里</font> <font color="#0000ff">新バ東</font></td>
+<td ></td>
+</tr>
+<tr>
+<td>101期<br>研11<br>2015年</td>
+<td><font color="#ff0000">咲乃 深音</font><br>愛乃 一真<br>龍季 澪<br>翼 杏寿<br>涼香 希南</td>
+<td><font color="#ff0000"><b>天紫 珠李</b></font> <font color="#0000ff">新バ全</font><br>礼華 はる <font color="#0000ff">新バ</font><br>甲海 夏帆</td>
+<td>縣 千 <font color="#0000ff">新バ東</font><br>麻斗 海伶</td>
+<td>碧海 さりお <font color="#0000ff">新</font><br>颯香 凜<br>夕陽 真輝</td>
+<td>鷹翔 千空 <font color="#0000ff">新バ</font><br><font color="#ff0000">湖々 さくら</font><br>真名瀬 みら<br>雪輝 れんや</td>
+<td ></td>
+</tr>
+<tr>
+<td>102期<br>研10<br>2016年</td>
+<td>侑輝 大弥 <font color="#0000ff">新</font><br>太凰 旬<br><font color="#ff0000">鈴美梛 なつ紀</font><br><font color="#ff0000">三空 凜花</font><br>南音 あきら</td>
+<td>彩海 せら <font color="#0000ff">新バ</font><br><font color="#ff0000">天愛 るりあ</font><br><font color="#ff0000">菜々野 あり</font><br>柊木 絢斗<br>大楠 てら</td>
+<td>咲城 けい <font color="#0000ff">新</font><br>稀羽 りんと</td>
+<td>天飛 華音 <font color="#0000ff">新バ</font><br>奏碧 タケル<br><font color="#ff0000">都 優奈</font><br>鳳真 斗愛</td>
+<td>風色 日向 <font color="#0000ff">新バ</font><br><font color="#ff0000"><b>春乃 さくら</b></font><br>凰海 るの<br><font color="#ff0000">夢風 咲也花</font><br>輝 ゆう</td>
+<td ></td>
+</tr>
+<tr>
+<td>103期<br>研9<br>2017年</td>
+<td><font color="#ff0000">朝葉 ことの</font> <font color="#0000ff">新</font><br>涼葉 まれ<br>希波 らいと <font color="#0000ff">新バ</font><br><font color="#ff0000">詩希 すみれ</font><br>海叶 あさひ<br><font color="#ff0000">琴美 くらら</font><br>颯美 汐紗</td>
+<td><font color="#ff0000">白河 りり</font> <font color="#0000ff">新</font><br>瑠皇 りあ <font color="#0000ff">新</font><br><font color="#ff0000">羽音 みか</font> <font color="#0000ff">新</font><br>彩路 ゆりか<br>爽 悠季<br>毬矢 ソナタ</td>
+<td><b><font color="#ff0000">夢白 あや</font></b><br>壮海 はるま<br><font color="#ff0000">愛羽 あやね</font><br><font color="#ff0000">莉奈 くるみ</font><br>紗蘭 令愛</td>
+<td><font color="#ff0000">瑠璃 花夏</font> <font color="#0000ff">新東</font><br>紘希 柚葉<br>羽玲 有華<br><font color="#ff0000">星咲 希</font><br></td>
+<td>亜音 有星 <font color="#0000ff">新</font><br><font color="#ff0000">二葉 ゆゆ</font> <font color="#0000ff">バ</font></td>
+<td ></td>
+</tr>
+<tr>
+<td>104期<br>研8<br>2018年</td>
+<td>天城 れいん <font color="#0000ff">新</font><br><font color="#ff0000">美羽 愛</font> <font color="#0000ff">新バ</font><br>珀斗 星来<br>青騎 司</td>
+<td><font color="#ff0000">咲彩 いちご</font><br>真弘 蓮<br><font color="#ff0000">美海 そら</font><br>月乃 だい亜</td>
+<td>蒼波 黎也 <font color="#0000ff">新</font><br><font color="#ff0000">愛陽 みち</font><br>絢斗 しおん<br><font color="#ff0000">麻花 すわん</font><br>風雅 奏<br>和奏 樹</td>
+<td><font color="#ff0000">綾音 美蘭</font> <font color="#0000ff">新</font><br>碧音 斗和<br>御剣 海 <font color="#0000ff">新</font><br>世晴 あさ<br>凛央捺 はる<br>透綺 らいあ</td>
+<td><font color="#ff0000">きよら 羽龍</font> <font color="#0000ff">新バ</font><br>嵐之 真<br>真白 悠希<br>梓 唯央<br><font color="#ff0000">楓姫 るる</font></td>
+<td ></td>
+</tr>
+<tr>
+<td >105期<br>研7<br>2019年</td>
+<td >美空 真瑠 <font color="#0000ff">新</font><br>夏希 真斗 <font color="#0000ff">新</font><br><font color="#ff0000"><b>星空 美咲</b></font> <font color="#0000ff">新全</font><br><font color="#ff0000">稀奈 ゆい</font><br><font color="#ff0000">初音 夢</font> <font color="#0000ff">新</font><br><font color="#ff0000">湖華 詩</font><br>伶愛輝 みら</td>
+<td ><font color="#ff0000">静音 ほたる</font><br>七城 雅 <font color="#0000ff">新</font><br><font color="#ff0000">朝香 ゆらら</font><br>槙 照斗<br><font color="#ff0000">奏羽 美緒</font><br>遥稀 れお</td>
+<td ><font color="#ff0000">音彩 唯</font> <font color="#0000ff">新東</font><br>紀城 ゆりや <font color="#0000ff">新</font><br><font color="#ff0000">琴峰 紗あら</font><br><font color="#ff0000">愛空 みなみ</font> <font color="#0000ff">新</font><br>海咲 圭<br>希翠 那音<br><font color="#ff0000">美影 くらら</font><br>月瀬 陽</td>
+<td >稀惺 かずと <font color="#0000ff">新</font><br><font color="#ff0000">鳳花 るりな</font><br><font color="#ff0000">詩 ちづる</font> <font color="#0000ff">新バ</font><br>大希 颯 <font color="#0000ff">新</font><br>彩紋 ねお<br><font color="#ff0000">瞳 きらり</font><br>青風 希央<br><font color="#ff0000">彩夏 こいき</font></td>
+<td >大路 りせ <font color="#0000ff">新</font><br>泉堂 成 <font color="#0000ff">新</font><br><font color="#ff0000">山吹 ひばり</font> <font color="#0000ff">新東バ</font><br>聖 叶亜<br><font color="#ff0000">美星 帆那</font> <font color="#0000ff">新</font></td>
+<td ></td>
+</tr>
+<tr>
+<td >106期<br>研6<br>2020年</td>
+<td >鏡 星珠<br><font color="#ff0000">湖春 ひめ花</font><br>遼 美来<br><font color="#ff0000">真澄 ゆかり</font><br>宇咲 瞬<br>月翔 きら<br><font color="#ff0000">美遥 あゆ</font><br>慧那 まや</td>
+<td >和真 あさ乃<br><font color="#ff0000">一乃 凜</font><br><font color="#ff0000">花妃 舞音</font> <font color="#0000ff">新東</font><br><font color="#ff0000">蘭叶 みり</font><br>涼宮 蘭奈<br>澪 あゆと<br>綺乃 ゆず<br>大瀬 いぶき</td>
+<td >華世 京 <font color="#0000ff">新バ</font><br><font color="#ff0000">華純 沙那</font> <font color="#0000ff">新</font><br>霧乃 あさと<br>夢翔 みわ<br><font color="#ff0000">夢陽 まり</font><br>藤影 ゆら<br>彩名 美希</td>
+<td ><font color="#ff0000">乙華 菜乃 <font color="#0000ff">新</font></font><br><font color="#ff0000">愛花 いと</font><br>凰陽 さや華<br>飛翠 真凜<br><font color="#ff0000">咲園 りさ</font><br>樹澄 せいや<br>朝稀 さいら</td>
+<td >鳳城 のあん<br><font color="#ff0000">風羽 咲季</font><br>郁 いりや<br>波輝 瑛斗<br><font color="#ff0000">花咲 美玖</font><br><font color="#ff0000">渚 ゆり</font></td>
+<td ></td>
+</tr>
+<tr>
+<td >107期<br>研5<br>2021年</td>
+<td >希蘭 るね<br><font color="#ff0000">七彩 はづき</font> <font color="#0000ff">新東</font><br><font color="#ff0000">咲良 さき</font><br><font color="#ff0000">常和 紅葉</font><br>瀬七波 いろ<br>華波 侑希</td>
+<td >天つ風 朱李<br><font color="#ff0000">澪花 えりさ</font><br>美颯 りひと<br><font color="#ff0000">華羽 りみ</font><br>一輝 翔琉<br>相星 旬<br><font color="#ff0000">愛梛 ちとせ</font></td>
+<td ><font color="#ff0000">白綺 華</font><font color="#0000ff"> 新</font><br>絢月 晴斗<br>風立 にき<br><font color="#ff0000">瑞季 せれな</font><br><font color="#ff0000">妃奈 環</font><br>瞳月 りく<br>乙瀬 千晴</td>
+<td ><font color="#ff0000">碧羽 陽</font><br>世奈 未蘭<br><font color="#ff0000">美玲 ひな</font><br>和波 煌<br><font color="#ff0000">詩花 すず</font><br><font color="#ff0000">藍羽 ひより</font> <font color="#0000ff">新</font><br>桃李 拍</td>
+<td >風翔 夕<br>奈央 麗斗<br><font color="#ff0000">結沙 かのん</font><br><font color="#ff0000">澄乃 紬</font><br><font color="#ff0000">華乃 みゆ</font><br>朱 涼<br>織史 青</td>
+<td ></td>
+</tr>
+<tr>
+<td >108期<br>研4<br>2022年</td>
+<td ><font color="#ff0000">花海 凛</font><br>纏 涼<br>滝 みらい<br>光稀 れん<br><font color="#ff0000">美翠 せいら</font><br><font color="#ff0000">華路 らら</font><br>輝涼 じゅん</td>
+<td ><font color="#ff0000">美渦 せいか</font> <font color="#0000ff">新</font><br><font color="#ff0000">彩姫 みみ</font><br><font color="#ff0000">星丘 しずく</font><br>雅 耀<font color="#0000ff"> 新</font><br><font color="#ff0000">八重 ひめか</font><br>穂波 舞咲<br>桜之 真緒</td>
+<td >苑利 香輝 <font color="#0000ff">新</font><br><font color="#ff0000">紗香 にいな</font><br><font color="#ff0000">星沢 ありさ</font> <font color="#0000ff">新</font><br>水月 胡蝶<br><font color="#ff0000">清羽 美伶</font><br>榊 歩<br><font color="#ff0000">琴華 ひまわり</font><br>千乃 新</td>
+<td ><font color="#ff0000">茉莉那 ふみ</font><br><font color="#ff0000">乙妃 優寿</font><br>馳 琉輝<br>瑠羽 らいと<br><font color="#ff0000">絢咲 羽蘭</font><br>珀亜 れい<br>風希 咲玖</td>
+<td ><font color="#ff0000">愛城 美紗</font><br><font color="#ff0000">梨恋 あやめ</font><br><font color="#ff0000">花恋 こまち</font> <font color="#0000ff">新</font><br>華楽 逸聖<br>志凪 咲杜<br>海玖里 粋<br><font color="#ff0000">輝珠 ななせ</font><br>朝比奈 天</td>
+<td ></td>
+</tr>
+<tr>
+<td >109期<br>研3<br>2023年</td>
+<td >風美 はる帆<br><font color="#ff0000">翠笙 芹南</font><br>月世 麗<br><font color="#ff0000">花綺 ちさと</font><br>風白 ルイ<br><font color="#ff0000">夢希 舞香</font><br><font color="#ff0000">咲葉 えめ</font><br>優帆 なぎさ
+</td>
+<td ><font color="#ff0000">乃々 れいあ</font> <font color="#0000ff">新</font><br><font color="#ff0000">帆華 なつ海</font><br>翔 ゆり愛<br><font color="#ff0000">朱鷺 あおい</font><br>飛翔 れいや<br><font color="#ff0000">梨乃 すずらん</font><br>日向 みなき<br>央河 希涼<br>碧月 光</td>
+<td ><font color="#ff0000">音綺 みあ</font><br>律希 奏<br><font color="#ff0000">祈菜 さあや</font><br>結翔 恋<br><font color="#ff0000">桜菜 みのり</font><br><font color="#ff0000">星姫 あやか</font></td>
+<td >早瀬 まほろ<br><font color="#ff0000">美鈴 桜</font><br><font color="#ff0000">湖ノ花 なり</font><br>逢莉 しゅん<br>花綾 れい<br><font color="#ff0000">美琴 ゆゆ</font><br>彩香 涼<br><font color="#ff0000">星奈 蘭</font></td>
+<td >響 望歌<br><font color="#ff0000">楓莉 かの</font><br>輝星 成<br><font color="#ff0000">朝絵 咲名</font><br><font color="#ff0000">宇河 キラ</font><br><font color="#ff0000">ゆり 遥</font><br>空輝 紫夕<br>飛月 夏純</td>
+<td ></td>
+</tr>
+<tr>
+<td >110期<br>研2<br>2024年</td>
+<td ><font color="#ff0000">彩葉 ゆめ</font> <font color="#0000ff">新</font><br><font color="#ff0000">優花 りら</font><br>海月 優<br>凛 航瑠<br><font color="#ff0000">七香 美海</font><br>伊吹 すがた<br>宙翔 かなた</td>
+<td >陽悠 はれ<br><font color="#ff0000">陽稀 はる</font><br><font color="#ff0000">薫乃 咲月</font><br>希瀬 旭<br>光 桜紀<br>也乃 英心<br><font color="#ff0000">百詠 心春</font></td>
+<td >真羽 利綺<br>星名 りおん<br><font color="#ff0000">星 美音</font><br><font color="#ff0000">杏 麗奈</font><br>千聖 侑<br><font color="#ff0000">鏡花 くらら</font><br>楓真 優<br>亜輝 かずは</td>
+<td ><font color="#ff0000">桃羽 ひらり</font><br>青星 すみと<br><font color="#ff0000">夏 音葉</font><br>朝路 みつき<br>新 琉<br>あゆう 壬都<br>琴音 悠希<br><font color="#ff0000">史真 えみり</font></td>
+<td >一斗 勇輝<br><font color="#ff0000">祈宮 えれな</font><br>悠久 颯<br><font color="#ff0000">華愛 りりい</font><br>柚月 翔<br><font color="#ff0000">麗月 るな</font><br>志槻 りゅう<br>純 れい</td>
+<td ></td>
+</tr>
+<tr>
+<td>人数</td>
+<td >76名(男役46 娘役30)</font></td>
+<td >72名(男役40 娘役32)</td>
+<td >73名(男役45 娘役28)</td>
+<td >79名(男役48 娘役31)</td>
+<td >65名(男役38 娘役27)</td>
+<td >12名(男役8 娘役4)</td>
+</tr>
+</tbody>
+</table>
+<br><br><br>
+[adrotate banner="4"]
+
